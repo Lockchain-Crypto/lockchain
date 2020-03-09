@@ -39,7 +39,7 @@ packages:
 - "libxcb-glx0-dev"
 
 remotes:
-- "url": "https://github.com/faetos/lockchain.git"
+- "url": "https://github.com/Lockchain-Crypto/lockchain.git"
   "dir": "lockchain"
 files: []
 script: |

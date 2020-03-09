@@ -32,7 +32,7 @@ packages:
 - "python3-pip"
 - "fonts-tuffy"
 remotes:
-- "url": "https://github.com/faetos/lockchain.git"
+- "url": "https://github.com/Lockchain-Crypto/lockchain.git"
   "dir": "lockchain"
 files:
 - "MacOSX10.11.sdk.tar.gz"
