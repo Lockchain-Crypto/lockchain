@@ -1,7 +1,7 @@
 Lock Chain Core repository
 =====================================
 
-[![Build Status](https://travis-ci.org/faetos/lockchain.png)](https://travis-ci.org/faetos/lockchain) [![GitHub tag](https://img.shields.io/github/tag/faetos/lockchain.svg)](https://github.com/faetos/lockchain/tree/v1.0.0)
+[![Build Status](https://travis-ci.org/Lockchain-Crypto/lockchain.png)](https://travis-ci.org/Lockchain-Crypto/lockchain) [![GitHub tag](https://img.shields.io/github/tag/Lockchain-Crypto/lockchain.svg)](https://github.com/Lockchain-Crypto/lockchain/tree/v1.0.0)
 
 Lock Chain is an open source blockchain project focused on storing mission critical data into the blockchain.  It is currently in development. 
 
