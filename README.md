@@ -29,4 +29,4 @@ Reward breakdown -  40% Masternodes. 30% Maxnodes, 25% Stakers, and 5% Dev fee
 
 Other Information
 
-- Website - http://www.lockchaincrypto.com
+- Website - TBD
